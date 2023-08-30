@@ -1,0 +1,53 @@
+body {
+    background-color:aqua;
+    color:blueviolet;
+}
+h1 {
+    font-family:'Brush Script MT';
+}
+h2 {
+    color:blue;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr {
+    border-color: #fe132e;
+}
+a {
+    color:hotpink;
+}
+
+ul{
+    color:navy;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:50%;
+}
+
+.every-even tr:nth-child(even){
+    background-color:#614884;
+    color:#0F1020;
+}
+
+th, td {
+  border: 1px solid black;
+}
+
+form {
+    background-color:#614884;
+    width:50%;
+}
+input {
+    border:2px solid black;
+}
+
+#THESE {
+    color:#37aa48;
+}
+
